@@ -1,0 +1,57 @@
+[13-Feb-2016 14:52:58 America/New_York] PHP Fatal error:  Class 'WhitePages' not found in /home/kinztech/public_html/chat/whitepages/Test.php on line 9
+[13-Feb-2016 14:53:01 America/New_York] PHP Fatal error:  Class 'WhitePages' not found in /home/kinztech/public_html/chat/whitepages/Test.php on line 9
+[13-Feb-2016 14:54:57 America/New_York] PHP Fatal error:  Class 'WhitePages' not found in /home/kinztech/public_html/chat/whitepages/Test.php on line 9
+[13-Feb-2016 14:58:43 America/New_York] PHP Fatal error:  Class 'WhitePages' not found in /home/kinztech/public_html/chat/whitepages/Test.php on line 9
+[13-Feb-2016 14:58:45 America/New_York] PHP Fatal error:  Class 'WhitePages' not found in /home/kinztech/public_html/chat/whitepages/Test.php on line 9
+[13-Feb-2016 14:59:13 America/New_York] PHP Notice:  Use of undefined constant city - assumed 'city' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 14:59:13 America/New_York] PHP Notice:  Use of undefined constant state - assumed 'state' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 14:59:32 America/New_York] PHP Notice:  Use of undefined constant city - assumed 'city' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 14:59:32 America/New_York] PHP Notice:  Use of undefined constant state - assumed 'state' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:00:19 America/New_York] PHP Notice:  Use of undefined constant city - assumed 'city' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:00:19 America/New_York] PHP Notice:  Use of undefined constant state - assumed 'state' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:00:21 America/New_York] PHP Notice:  Use of undefined constant city - assumed 'city' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:00:21 America/New_York] PHP Notice:  Use of undefined constant state - assumed 'state' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:00:37 America/New_York] PHP Notice:  Use of undefined constant city - assumed 'city' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:00:37 America/New_York] PHP Notice:  Use of undefined constant state - assumed 'state' in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 19
+[13-Feb-2016 15:15:58 America/New_York] PHP Notice:  Undefined index: result in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 22
+[13-Feb-2016 15:15:58 America/New_York] PHP Catchable fatal error:  Object of class WhitePagesResult could not be converted to string in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 21
+[13-Feb-2016 15:17:17 America/New_York] PHP Notice:  Undefined index: result in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 22
+[13-Feb-2016 15:17:17 America/New_York] PHP Catchable fatal error:  Object of class WhitePagesResult could not be converted to string in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 21
+[13-Feb-2016 15:19:10 America/New_York] PHP Notice:  Undefined index: result in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 22
+[13-Feb-2016 15:19:10 America/New_York] PHP Catchable fatal error:  Object of class WhitePagesResult could not be converted to string in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 21
+[13-Feb-2016 15:19:35 America/New_York] PHP Catchable fatal error:  Object of class WhitePagesResult could not be converted to string in /home/kinztech/public_html/chat/whitepages/WhitePages.php on line 21
+[13-Feb-2016 15:19:52 America/New_York] PHP Notice:  Undefined index: age_range in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 28
+[13-Feb-2016 15:19:55 America/New_York] PHP Notice:  Undefined index: age_range in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 28
+[13-Feb-2016 15:22:01 America/New_York] PHP Notice:  Array to string conversion in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 28
+[13-Feb-2016 15:35:24 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 36
+[13-Feb-2016 15:35:24 America/New_York] PHP Notice:  Undefined index: middle_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 37
+[13-Feb-2016 15:35:24 America/New_York] PHP Notice:  Undefined index: last_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 38
+[13-Feb-2016 15:36:05 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 36
+[13-Feb-2016 15:36:05 America/New_York] PHP Notice:  Undefined index: middle_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 37
+[13-Feb-2016 15:36:05 America/New_York] PHP Notice:  Undefined index: last_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 38
+[13-Feb-2016 15:36:36 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 37
+[13-Feb-2016 15:36:36 America/New_York] PHP Notice:  Undefined index: middle_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 38
+[13-Feb-2016 15:36:36 America/New_York] PHP Notice:  Undefined index: last_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 39
+[13-Feb-2016 15:36:57 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 36
+[13-Feb-2016 16:03:26 America/New_York] PHP Notice:  Undefined index: receiving_mail in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 54
+[13-Feb-2016 16:03:26 America/New_York] PHP Notice:  Undefined index: latitude in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 55
+[13-Feb-2016 16:03:26 America/New_York] PHP Notice:  Undefined index: longitude in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 56
+[13-Feb-2016 17:21:50 America/New_York] PHP Notice:  Array to string conversion in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 84
+[13-Feb-2016 17:22:50 America/New_York] PHP Notice:  Undefined index: phone_number in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 67
+[13-Feb-2016 17:22:50 America/New_York] PHP Warning:  Illegal string offset 'phone_number' in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 67
+[13-Feb-2016 17:22:50 America/New_York] PHP Notice:  Undefined index: phone_number in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 67
+[13-Feb-2016 17:22:50 America/New_York] PHP Warning:  Illegal string offset 'phone_number' in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 67
+[13-Feb-2016 17:22:50 America/New_York] PHP Notice:  Array to string conversion in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 84
+[13-Feb-2016 17:24:24 America/New_York] PHP Notice:  Array to string conversion in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 86
+[13-Feb-2016 20:28:32 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 74
+[13-Feb-2016 20:28:32 America/New_York] PHP Notice:  Undefined index: middle_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 75
+[13-Feb-2016 20:28:32 America/New_York] PHP Notice:  Undefined index: last_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 76
+[13-Feb-2016 20:28:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 80
+[13-Feb-2016 20:28:55 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 74
+[13-Feb-2016 20:28:55 America/New_York] PHP Notice:  Undefined index: middle_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 75
+[13-Feb-2016 20:28:55 America/New_York] PHP Notice:  Undefined index: last_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 76
+[13-Feb-2016 20:28:55 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 80
+[13-Feb-2016 20:38:32 America/New_York] PHP Notice:  Undefined index: first_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 74
+[13-Feb-2016 20:38:32 America/New_York] PHP Notice:  Undefined index: middle_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 75
+[13-Feb-2016 20:38:32 America/New_York] PHP Notice:  Undefined index: last_name in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 76
+[13-Feb-2016 20:38:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/kinztech/public_html/chat/whitepages/WhitePagesResult.php on line 80
