@@ -1,6 +1,10 @@
+<?php if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_REFERER']!="http://your-site.com/path/to/chat.js") {
+	die();
+} ?>
 <?php
 
 	include_once ('../../facebook/FacebookAnalyzer.php');
+	include_once ('../../facebook/FacebookProfiler.php');
 	include_once ('../../facebook/FacebookSearcher.php');
 	//include_once ('../../whitepages/WhitePages.php.php');
 	//include_once ('../../whitepages/WhitePagesResult.php.php');
@@ -18,7 +22,8 @@
 				case 'facebook':
 					switch($splits[1]) {
 						case '-user':
-							$analyzer = new FacebookAnalyzer($splits[2]);
+							$analyzer = new FacebookProfiler($splits[2]);
+							$analyzer->analyze();
 							$output = $analyzer->getResponse();
 							break;
 						case '-search':

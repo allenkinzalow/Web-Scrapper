@@ -1,6 +1,7 @@
 <?php
 
 include ('FacebookAnalyzer.php');
+include ('FacebookProfiler.php');
 ini_set("include_path", '/home/kinztech/php:' . ini_get("include_path") );
 require_once "HTTP/Request2.php";
 

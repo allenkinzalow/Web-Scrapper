@@ -41,24 +41,29 @@ if (isset($_GET['name']) && isset($_SESSION['userid'])):
         </div>
         <div id="room-container" class="row">
 
-            <div class="container">
-
-
-                <div id="chat-wrap" class="col s12">
-                    <div id="chat-area"></div>
+            <div class="row">
+                <div class="row">
+                    <div id="user-list-wrap" class="col s12 m4 right">
+                        <div id="userlist"></div>
+                    </div>
+                    <div id="chat-wrap" class="col s12 m8">
+                        <div id="chat-area"></div>
+                    </div>
                 </div>
                 <div class="padd"></div>
                 <form id="send-message-area" action="">
                     <div class="row">
-                        <div class="col s3">
-                            <div id="username" class="chip truncate">
-                                <?php echo $_SESSION['userid']; ?>
+                        <div class="container">
+                            <div class="col s3">
+                                <div id="username" class="chip truncate">
+                                    <?php echo $_SESSION['userid']; ?>
+                                </div>
                             </div>
-                        </div>
-                        <div class="input-field col s9 right">
+                            <div class="input-field col s9 right">
                             <textarea id="sendie" maxlength='100' class="materialize-textarea"
                                       placeholder="Send a message!"></textarea>
-                            <div class="chip right">Enter to send</div>
+                                <div class="chip right">Enter to send</div>
+                            </div>
                         </div>
                     </div>
                 </form>
@@ -70,8 +75,12 @@ if (isset($_GET['name']) && isset($_SESSION['userid'])):
     <script type="text/javascript">
         $(document).ready(function () {
             setTimeout(function () {
-                $("#chat-area p span:contains(" + usernameid + ")").parent().addClass("active");
-                $("#chat-area p span:contains(" + usernameid + ")").addClass("active");
+                $('#chat-area p span').not(".test").each(function () {
+                    if ($(this).text() === usernameid) {
+                        $(this).addClass("active");
+                        $(this).parent().addClass("active");
+                    }
+                });;
             }, 200);
         });
     </script>

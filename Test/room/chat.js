@@ -47,8 +47,14 @@ function getStateOfChat(){
 		 
 //Updates the chat
 function updateChat(){
-	$("#chat-area p span:contains(" + usernameid + ")").parent().addClass("active");
-	$("#chat-area p span:contains(" + usernameid + ")").addClass("active");
+	//$("#chat-area p:contains('<span>' + usernameid + '</span>')").addClass('active');
+	//$("#chat-area p:contains('<span>' + usernameid + '</span>')").parent().addClass('active');
+	$('#chat-area p span').not(".test").each(function () {
+		if ($(this).text() === usernameid) {
+			$(this).addClass("active");
+			$(this).parent().addClass("active");
+		}
+	});
      $.ajax({
      
         type: "GET",
@@ -118,7 +124,6 @@ function getuserlist(room, username) {
         dataType: "json",
         cache: false,
         success: function(data) {
-			console.log(data);
         	if (numOfUsers != data.numOfUsers) {
         		numOfUsers = data.numOfUsers;
         		var list = "<li class='head'>Current Chatters</li>";

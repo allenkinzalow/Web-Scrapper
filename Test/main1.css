@@ -7,6 +7,14 @@ h3 .small{
     font-size: 14px;
 }
 
+img{
+    max-width: 100%;
+}
+@media screen and (max-width: 701px){
+    h1 .small, h3 .small{
+        display: block;
+    }
+}
 body{
     background-color: #eeeeee;
     min-height: 100%;
@@ -89,12 +97,19 @@ label {
     min-height: 400px;
     background-color: white;
 }
+@media screen and (max-width: 700px){
+    #room{
+        margin: 0px;
+        width: 100%;
+    }
+}
 .fill{
     width: 100%;
     padding: 10px 0;
 }
 #room-container{
     padding: 30px;
+    margin: 0px;
 }
 #room .btn{
     position: absolute;
@@ -134,8 +149,8 @@ label {
 #username{
     color: white;
     background-color: #607d8b;
-    position: absolute;
-    bottom: 90px;
+    position: relative;
+    margin-top: 30px;
 }
 .no-padding{
     margin: 0;
@@ -163,20 +178,21 @@ label {
 }
 
 #chat-wrap {
-    border-top: solid 1px #eee;
     position: relative;
     min-height: 60vh;
-    width: 100%;
+    padding-left: 10px;
 }
 
 #chat-area {
+    padding-left: 20px;
     position: absolute;
     width: 100%;
-    height: 100%;
+    min-height: 60vh;
     top: 0;
     bottom: 0;
     left: 0;
     overflow: auto;
+    overflow-x: hidden;
 }
 
 #chat-area span {
@@ -197,7 +213,6 @@ label {
     background-color: #e4e4e4;
     margin-right: 10px;
 }
-
 #chat-area span.test{
     text-align: left;
     float: none;
@@ -226,7 +241,7 @@ label {
     bottom: -20px;
     border: 20px solid;
     border-color: transparent transparent transparent #e4e4e4;
-    z-index: 0;
+    z-index: -1;
 }
 #chat-area .active span.test{
     word-break: break-all;
@@ -282,6 +297,22 @@ label {
     color: #333;
     word-wrap: break-word;
 }
+@media screen and (max-width: 700px){
+    #chat-area span.test{
+
+    }
+    #chat-area p{
+        margin-left: 50px;
+        margin-right: 10px;
+    }
+    #chat-area span{
+        left: -65px;
+        text-align: center;
+        word-break: normal;
+        max-width: 75px;
+        height: auto;
+    }
+}
 #chat-area p.active{
     padding-top: 2px;
     padding-bottom: 2px;
@@ -316,17 +347,23 @@ label {
 
 #userlist {
     width: 100%;
-    height: 450px;
-    overflow-y: scroll;
+    height: auto;
+    overflow: auto;
+}
+@media screen and (min-width: 701px){
+   #userlist{
+       min-height: 60vh;
+   }
 }
 
 #userlist ul {
-    color: #fff;
-    font-size: 18px;
+    padding: 0 10px;
     list-style: none;
+    border-bottom: 1px solid #eee;
 }
 
 #userlist ul li {
+    padding: 10px 0px;
 }
 
 #userlist ul li.head {

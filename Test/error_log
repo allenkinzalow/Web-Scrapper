@@ -1,0 +1,565 @@
+[14-Feb-2016 15:46:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 15:46:51 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 15:46:51 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 15:46:51 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 15:46:51 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 15:46:51 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 15:56:23 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 15:56:47 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 15:56:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 15:56:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 15:56:50 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 16:28:03 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 16:28:03 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 16:28:03 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 16:28:03 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 16:28:03 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 16:28:03 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 18:10:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 18:10:18 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 18:10:18 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 18:10:18 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 18:10:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 18:10:18 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 18:10:30 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 18:10:48 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 18:10:48 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 18:10:48 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 18:10:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 18:10:49 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 18:10:49 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 18:10:49 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 18:10:49 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 18:10:49 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 18:12:55 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 18:12:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 18:12:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 18:12:59 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 18:13:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 18:13:28 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 18:13:28 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 18:13:28 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 18:13:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 18:13:28 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 19:27:36 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 19:27:36 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 19:27:36 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 19:27:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 19:27:44 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 19:27:44 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 19:27:44 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 19:27:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 19:27:44 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 19:28:02 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 19:28:02 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 19:28:02 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 19:28:02 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 19:28:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 19:28:02 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 20:52:19 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 20:52:29 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 20:52:29 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 20:52:29 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 21:06:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 21:06:41 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 21:06:41 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 21:06:41 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 21:06:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 21:06:41 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 22:24:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 22:24:28 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 22:24:28 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 22:24:28 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 22:24:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 22:24:28 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 22:24:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 22:24:52 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 22:24:52 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 22:24:52 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 22:24:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 22:24:52 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[14-Feb-2016 22:27:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[14-Feb-2016 22:27:15 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[14-Feb-2016 22:27:15 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[14-Feb-2016 22:27:15 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[14-Feb-2016 22:27:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[14-Feb-2016 22:27:15 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 09:42:31 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 09:42:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 09:42:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 09:42:42 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 10:54:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 10:54:31 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 10:54:31 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 10:54:31 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 10:54:31 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 10:54:31 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:02:44 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:02:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:02:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:02:55 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:03:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:03:05 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:03:05 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:03:05 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:03:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:03:05 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:08:02 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:08:02 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:08:02 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:08:02 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:08:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:08:02 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:39:27 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:39:27 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:39:27 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:39:27 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:39:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:39:27 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:39:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:39:30 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:39:30 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:39:30 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:39:30 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:39:30 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:39:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:39:35 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:39:35 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:39:35 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:39:35 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:39:35 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:40:27 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:40:31 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:40:31 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:40:31 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:42:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:42:01 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:42:01 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:42:01 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:42:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:42:01 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:42:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:42:06 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:42:06 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:42:06 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:42:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:42:06 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:42:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:42:42 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:42:42 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:42:42 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:42:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:42:42 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:43:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:43:58 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:43:58 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:43:58 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:43:58 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:43:58 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 11:44:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 11:44:47 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 11:44:47 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 11:44:47 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 11:44:47 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 11:44:47 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 13:41:25 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 13:41:33 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 13:41:33 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 13:41:33 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 13:42:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 13:42:21 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 13:42:21 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 13:42:21 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 13:42:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 13:42:21 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 13:44:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 13:44:10 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 13:44:10 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 13:44:10 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 13:44:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 13:44:10 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 13:44:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 13:44:53 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 13:44:53 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 13:44:53 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 13:44:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 13:44:53 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 13:45:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 13:45:06 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 13:45:06 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 13:45:06 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 13:45:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 13:45:06 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 14:35:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 14:35:01 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 14:35:01 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 14:35:01 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 14:35:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 14:35:01 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 14:35:12 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 14:35:17 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 14:35:17 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 14:35:17 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 14:35:17 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 14:35:17 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 14:35:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 14:35:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 14:35:22 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 17:31:20 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 17:31:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 17:31:28 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 17:31:28 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 17:58:51 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 17:58:51 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 17:58:51 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 17:58:51 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 17:58:51 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 19:11:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 19:11:56 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 19:11:56 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 19:11:56 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 19:11:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 19:11:56 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 20:32:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 20:32:04 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 20:32:04 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 20:32:04 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 20:32:04 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 20:32:04 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 23:01:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 23:01:14 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 23:01:14 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 23:01:14 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 23:01:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 23:01:14 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[15-Feb-2016 23:50:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[15-Feb-2016 23:50:48 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[15-Feb-2016 23:50:48 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[15-Feb-2016 23:50:48 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[15-Feb-2016 23:50:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[15-Feb-2016 23:50:48 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 01:08:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 01:08:04 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 01:08:04 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 01:08:04 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 01:08:04 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 01:08:04 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 09:01:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 09:01:22 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 09:01:22 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 09:01:22 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 09:01:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 09:01:22 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 09:01:26 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 09:01:35 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 09:01:35 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 09:01:35 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 09:30:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 09:30:56 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 09:30:56 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 09:30:56 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 09:30:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 09:30:56 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 10:43:33 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 10:43:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 10:43:33 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 10:43:33 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 10:43:33 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 10:43:33 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 10:43:33 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 10:43:38 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 10:43:38 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 10:43:38 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 11:13:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 11:13:34 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 11:13:34 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 11:13:34 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 11:13:34 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 11:13:34 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 13:02:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 13:02:48 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 13:02:48 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 13:02:48 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 13:02:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 13:02:48 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 13:13:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 13:13:35 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 13:13:35 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 13:13:35 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 13:13:35 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 13:13:35 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 13:14:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 13:14:48 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 13:14:48 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 13:14:48 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 13:14:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 13:14:48 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 13:29:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 13:29:45 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 13:29:45 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 13:29:45 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 13:29:45 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 13:29:45 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 13:31:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 13:31:41 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 13:31:41 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 13:31:41 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 13:31:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 13:31:41 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 13:59:46 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 13:59:46 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 13:59:46 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 13:59:46 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 13:59:46 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 13:59:46 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:03:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:03:38 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:03:38 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:03:38 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:03:38 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:03:38 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:12:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:12:01 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:12:01 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:12:01 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:12:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:12:01 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:12:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:12:55 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:12:55 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:12:55 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:12:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:12:55 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:14:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:14:52 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:14:52 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:14:52 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:14:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:14:52 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:15:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:15:35 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:15:35 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:15:35 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:15:35 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:15:35 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:16:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:16:14 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:16:14 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:16:14 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:16:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:16:14 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:16:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:16:31 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:16:31 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:16:31 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:16:31 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:16:31 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:17:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:17:50 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:17:50 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:17:50 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:17:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:17:50 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:20:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:20:12 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:20:12 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:20:12 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:20:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:20:12 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:30:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:30:43 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:30:43 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:30:43 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:30:43 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:30:43 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:37:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:37:56 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:37:56 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:37:56 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:37:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:37:56 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 14:38:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 14:38:21 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 14:38:21 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 14:38:21 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 14:38:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 14:38:21 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:52:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 15:52:23 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:52:23 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:52:23 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:52:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:52:23 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:52:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 15:52:41 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:52:41 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:52:41 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:52:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:52:41 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:52:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 15:52:45 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:52:45 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:52:45 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:52:45 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:52:45 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:56:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 15:56:14 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:56:14 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:56:14 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:56:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:56:14 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:56:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 15:56:21 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:56:21 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:56:21 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:56:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:56:21 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:57:56 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:57:57 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:58:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:58:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:58:18 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 15:58:41 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 15:58:41 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 15:58:41 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 15:58:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 15:58:41 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 16:19:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 16:19:09 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 16:19:09 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 16:19:09 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 16:19:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 16:19:09 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 16:19:44 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 16:19:53 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 16:19:53 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 16:19:53 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 16:19:53 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 16:19:54 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 16:19:54 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 16:19:54 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 16:19:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 16:19:54 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 16:20:03 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 16:20:03 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 16:20:03 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 16:20:03 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 16:20:03 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 16:20:03 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 16:21:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 16:21:16 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 16:21:16 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 16:21:16 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 16:21:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 16:21:16 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 18:36:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 18:36:53 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 18:36:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 18:36:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 18:36:54 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 18:40:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 18:40:20 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 18:40:20 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 18:40:20 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 18:40:20 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 18:40:20 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 18:41:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 18:41:29 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 18:41:29 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 18:41:29 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 18:41:29 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 18:41:29 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8
+[16-Feb-2016 18:41:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/kinztech/public_html/chat/Test/chatrooms.php on line 3
+[16-Feb-2016 18:41:54 America/New_York] PHP Notice:  Use of undefined constant HOST - assumed 'HOST' in /home/kinztech/public_html/chat/Test/dbcon.php on line 3
+[16-Feb-2016 18:41:54 America/New_York] PHP Notice:  Use of undefined constant USERNAME - assumed 'USERNAME' in /home/kinztech/public_html/chat/Test/dbcon.php on line 4
+[16-Feb-2016 18:41:54 America/New_York] PHP Notice:  Use of undefined constant PASSWORD - assumed 'PASSWORD' in /home/kinztech/public_html/chat/Test/dbcon.php on line 5
+[16-Feb-2016 18:41:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kinztech/public_html/chat/Test/dbcon.php on line 7
+[16-Feb-2016 18:41:54 America/New_York] PHP Notice:  Undefined variable: name in /home/kinztech/public_html/chat/Test/common/header.php on line 8

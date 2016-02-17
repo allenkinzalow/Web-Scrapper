@@ -2,11 +2,11 @@
 
 /**
  * Created by PhpStorm.
- * User: allen_000
+ * User: Allen Kinzalow
  * Date: 2/13/2016
  * Time: 8:56 PM
  */
-class FacebookSearcher
+class FacebookSearcher implements FacebookAnalyzer
 {
 
     private $query;
@@ -16,6 +16,7 @@ class FacebookSearcher
     private $search = '';
 
     private $response;
+    private $stack = array(array());
 
     function __construct($query)
     {
@@ -23,10 +24,10 @@ class FacebookSearcher
         $this->query = $query;
         $this->response .= 'Searching For: ' . $query .'<br>...<br>';
         $this->search = $this->link.$this->query;
-        $this->search();
+        $this->analyze();
     }
 
-    function search() {
+    function analyze() {
         $crawler = new FacebookCrawler($this->search, $this->current_cookie);
         $results = $crawler->getTextBetweenTags('<div class="_5d-5">');
         $i = 1;
@@ -40,6 +41,10 @@ class FacebookSearcher
             $this->response .= 'Username: ' . $username .'<br>';
             $this->response .= 'Profile Picture: <br>';
             $this->response .= '<img src="'.$image.'" width="100" height="100"<br><br>';
+            $this->stack[$i - 1]['title'] = 'Name: ' . $r;
+            $this->stack[$i - 1]['text'] = 'Username: ' . $username;
+            $this->stack[$i - 1]['image_url'] = 'Username: ' . $image;
+            $this->stack[$i - 1]['color'] = '#556FA3';
             $i++;
         }
     }
@@ -48,4 +53,7 @@ class FacebookSearcher
         return $this->response;
     }
 
+    public function getStack() {
+        return $this->stack;
+    }
 }
