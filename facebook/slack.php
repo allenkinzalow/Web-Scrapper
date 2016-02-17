@@ -10,7 +10,7 @@ include_once ('FacebookSearcher.php');
  * Time: 6:42 PM
  */
 
-$token = 'VeHxEFDIMYPQpBcYUTQ3lplH';
+$token = '';
 $channel = 'facebook_scraper';
 
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
